@@ -4,7 +4,7 @@ Software engineering student in Kathmandu, Nepal. I'm focusing on backend-focuse
 
 ## What I'm working on
 
-- Learning Django REST Framework and Linux
+- Learning Django, PostgreSQL and Linux
 - Building projects with Python, Django, Java and MySQL
 
 ## Projects
