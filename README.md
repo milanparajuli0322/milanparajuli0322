@@ -1,6 +1,6 @@
 # Hi, I'm Milan
 
-Software engineering student in Kathmandu, Nepal. I'm focusing on Python backend development.
+Software engineering student in Kathmandu, Nepal. I'm focusing on backend-focused full stack development with Python.
 
 ## What I'm working on
 
