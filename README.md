@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Milan
 
-<!--
-**milanparajuli0322/milanparajuli0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student in Kathmandu, Nepal. I'm focusing on Python backend development.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Django REST Framework and Linux
+- Building projects with Python, Django, Java and MySQL
+
+## Projects
+
+- [Connect-Project](https://github.com/milanparajuli0322/Connect-Project): Django student/teacher management system with permission-based access and login lockout
+- [Inventory-Project](https://github.com/milanparajuli0322/Inventory-Project): Python inventory manager with MySQL
+- [Library-Project](https://github.com/milanparajuli0322/Library-Project): Java library manager
+- [Hospital-Project](https://github.com/milanparajuli0322/Hospital-Project): Java hospital management system
+- [Python-Projects](https://github.com/milanparajuli0322/Python-Projects): five Python command-line projects
+
+## Contact
+
+milanparajuli0322@gmail.com
